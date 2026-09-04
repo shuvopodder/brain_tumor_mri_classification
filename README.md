@@ -80,10 +80,12 @@ flowchart TD
     F --> G1[CNN Baseline<br/>4-block ConvNet]
     F --> G2[ResNet50<br/>ImageNet pretrained]
     F --> G3[EfficientNet-B0<br/>ImageNet pretrained]
+    F --> G4[ViT<br/>Vision Transformer]
 
     G1 --> H[Trainer]
     G2 --> H
     G3 --> H
+    G4 --> H
     E --> H
 
     H --> H1[AdamW + Cosine LR Schedule]
