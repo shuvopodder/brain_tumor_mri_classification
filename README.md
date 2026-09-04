@@ -108,7 +108,7 @@ flowchart TD
     L --> N[README / Report Figures]
 ```
 
-
+## Metrics & evaluation
 #### Plot training curves
 <img width="1189" height="390" alt="image" src="https://github.com/user-attachments/assets/df056fc3-1dd5-4afc-a775-75dbd83c091d" />
 
@@ -119,8 +119,8 @@ flowchart TD
 <img width="1016" height="2390" alt="image" src="https://github.com/user-attachments/assets/55b71a29-f32d-498f-b13a-280a3a93603b" />
 
 
-### Key Ideas (Future Work)
-#### Federated Multimodal Explainable Medical Foundation Model (FME-MFM).
+## Key Ideas (Future Work)
+### Federated Multimodal Explainable Medical Foundation Model (FME-MFM).
 (Multimodal Foundation Models + Explainable AI + Federated Learning for Medical Image Classification)
 
-Build a privacy-preserving foundation model that learns jointly from medical images, radiology reports, and clinical records across multiple hospitals, while producing clinically interpretable explanations for every diagnosis.
+- Build a privacy-preserving foundation model that learns jointly from medical images, radiology reports, and clinical records across multiple hospitals, while producing clinically interpretable explanations for every diagnosis.
